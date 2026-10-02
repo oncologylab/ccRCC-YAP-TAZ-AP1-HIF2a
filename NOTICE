@@ -1,0 +1,4 @@
+CUT&Tag alignment and HOMER workflows: SW; modifications by CN.
+csaw normalization: Yi.
+786O RNA-seq workflow in preprocessing/cellline_deseq2.R: Alec McIntosh.
+Image-analysis macros and colocalization workflow in preprocessing/image_analysis/: Alec McIntosh.

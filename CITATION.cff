@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the associated manuscript; versioned DOI pending."
+type: software
+title: "ccRCC YAP/TAZ–AP-1–HIF2α analysis code"
+authors:
+  - family-names: "Li"
+    given-names: "Yaoxiang"
+    url: "https://github.com/YaoxiangLi"
+repository-code: "https://github.com/oncologylab/ccRCC-YAP-TAZ-AP1-HIF2a"
+license: MIT

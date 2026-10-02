@@ -1,0 +1,7 @@
+panel	analysis_set	assay	display_title	bound_source_class	unbound_source_class	n_bound	n_unbound	median_bound	median_unbound	median_difference_bound_minus_unbound	raw_p	test	FDR_p
+1	shYT_H3K27ac	HIF2a	HIF2a peaks after shYT	matched_cobound	matched_background	6606	6447	-0.7679424082359835	-0.5822368302846387	-0.1857055779513448	1.0300571482068139e-48	two-sided Mann-Whitney U test	2.0601142964136278e-48
+2	shHIF2_H3K27ac	YAP	YAP peaks after shHIF2a	matched_cobound	matched_background	7410	7035	-0.4887881781901564	-0.2363584166993756	-0.2524297614907808	3.366213996109583e-99	two-sided Mann-Whitney U test	2.0197283976657497e-98
+3	shYT_H3K27ac	ATAC	ATAC after shYT	matched_cobound	matched_background	6612	6424	-0.16902888603252786	-0.1265829649754605	-0.04244592105706735	2.4658681887324737e-10	two-sided Mann-Whitney U test	2.9590418264789684e-10
+4	shYT_H3K27ac	H3K27ac	H3K27ac after shYT	matched_cobound	matched_background	6616	6615	-0.4009159197355868	-0.2876486233008712	-0.11326729643471561	2.2542303462296336e-29	two-sided Mann-Whitney U test	3.3813455193444504e-29
+5	shYT_H3K27ac	H3K27ac2	H3K27ac dataset 2 after shYT	matched_cobound	matched_background	6606	6581	-0.4708932495356683	-0.4530330970194904	-0.017860152516177896	0.0008922734356627493	two-sided Mann-Whitney U test	0.0008922734356627493
+6	shHIF2_H3K27ac	H3K27ac	H3K27ac after shHIF2a	matched_cobound	matched_background	7424	7424	0.30150455202603754	0.0271539418239286	0.27435061020210894	8.123986718962484e-76	two-sided Mann-Whitney U test	2.4371960156887454e-75
